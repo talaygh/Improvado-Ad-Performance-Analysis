@@ -1,11 +1,11 @@
 # Multi-Channel Ad Performance Analysis
-**Take-home assignment | Snowflake · SQL · Tableau**
+**Snowflake · SQL · Tableau**
 
 ---
 
 ## Overview
 
-End-to-end marketing analytics project unifying advertising data from three platforms — Facebook, Google, and TikTok — into a single data model in Snowflake, with cross-channel performance insights visualized in Tableau Public.
+A take-home assignment unifying advertising data from Facebook, Google, and TikTok into a single data model in Snowflake, with cross-channel ad performance insights visualized in Tableau Public.
 
 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/talay.kamali/viz/Improvado/AdPerformance)
 
